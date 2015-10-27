@@ -13,7 +13,7 @@ namespace Odamosa.DOM
         public String nombreAnimal { get; set; }
         public List<PesoAnimal> pesoAnimal { get; set; }
         public DateTime fechaNacimiento { get; set; }
-        //Agregar objeto raza12
+        //Agregar objeto raza2
 
 
 
